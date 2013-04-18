@@ -9,8 +9,6 @@ Make sure your PPTPD server has debug logging enabled. Add a line with the text 
 
 **Make the script executable**
 
-Simply run the script:
-
     chmod +x src/pptpd-monitor.py
 
 **Show client statistics**
